@@ -1,6 +1,6 @@
 # Northwind Traders Web Application and API
 ## ASP.NET Core MVC & Web API Solution
-This project is a dual-application solution simulating a fictitious company, Northwind Traders, built as part of an ASP.NET Core assignment. It consists of an MVC web app and a Web API designed to interact with a SQL Server LocalDB database.
+This project is a dual-application solution simulating a fictitious company, Northwind Traders, built as part of an ASP.NET Core assignment. It consists of an MVC web app and a Web API designed to interact with a MS SQL Server database.
 Key Features
 1. **NorthwindAPI** *(ASP.NET Core Web API)*
     - **Products Endpoint:** Returns products filtered by category and excludes discontinued items.
